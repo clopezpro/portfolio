@@ -1,0 +1,152 @@
+{
+  // Enable the ESlint flat config support
+  "editor.cursorSmoothCaretAnimation": "on",
+  "workbench.startupEditor": "newUntitledFile",
+  // Disable the default formatter, use eslint instead
+  "editor.unicodeHighlight.invisibleCharacters": false,
+  "workbench.colorTheme": "Tokyo Night",
+  "workbench.editor.highlightModifiedTabs": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": null,
+  // Auto fix
+  "editor.hover.sticky": true,
+  "workbench.editor.limit.enabled": true,
+  "workbench.editor.limit.perEditorGroup": true,
+  "workbench.editor.limit.value": 5,
+  "git.enableSmartCommit": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "always",
+    "source.fixAll.eslint": "explicit",
+    "source.organizeImports": "never"
+  },
+  "emmet.includeLanguages": {
+    "vue-html": "html",
+    "vue": "html"
+  },
+  "css.lint.unknownAtRules": "ignore",
+  "editor.tabCompletion": "onlySnippets",
+  // Silent the stylistic rules in you IDE, but still auto fix them
+  "eslint.codeAction.showDocumentation": {
+    "enable": true
+  },
+  // Enable eslint for all supported languages
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "vue",
+    "html",
+    "markdown",
+    "json",
+    "jsonc",
+    "yaml",
+    "toml",
+    "astro"
+  ],
+  "cSpell.words": [
+    "Aument",
+    "Autenticador",
+    "autoprint",
+    "branchoffice",
+    "CashRegisterKardex",
+    "cloudinary",
+    "codeIndentity",
+    "crossws",
+    "CXC's",
+    "dataforclose",
+    "devpwa",
+    "devpwawin",
+    "ebilling",
+    "Egresos",
+    "Emision",
+    "facturador",
+    "jsbarcode",
+    "Kardex",
+    "keyuri",
+    "noprint",
+    "ofetch",
+    "oids",
+    "otplib",
+    "pers",
+    "qrcode",
+    "razon",
+    "resetear",
+    "rrhh",
+    "segma",
+    "Serv",
+    "streamifier",
+    "UANATACA",
+    "xmlbuilder"
+  ],
+  "editor.quickSuggestions": {
+    "strings": "on"
+  },
+  "files.associations": {
+    "\".css\"": "tailwindcss"
+  },
+  "tailwindCSS.classAttributes": [
+    "class",
+    "ui"
+  ],
+  "tailwindCSS.experimental.classRegex": [
+    [
+      "ui:\\s*{([^)]*)\\s*}",
+      "(?:'|\"|`)([^']*)(?:'|\"|`)"
+    ]
+  ],
+  "vscord.app.privacyMode.enable": true,
+  "window.autoDetectColorScheme": true,
+  "editor.smoothScrolling": true,
+  "timeline.pageOnScroll": true,
+  "editor.scrollbar.verticalScrollbarSize": 5,
+  "editor.minimap.enabled": true,
+  "editor.minimap.scale": 1,
+  "editor.minimap.size": "proportional",
+  "scm.diffDecorations": "minimap",
+  "files.simpleDialog.enable": true,
+  "debug.showVariableTypes": true,
+  "notebook.variablesView": true,
+  "cSpell.showAutocompleteDirectiveSuggestions": true,
+  "vue.inlayHints.destructuredProps": true,
+  "[vue]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "eslint.debug": true,
+  "eslint.format.enable": true,
+  "eslint.ignoreUntitled": true,
+  "eslint.lintTask.enable": true,
+  "eslint.problems.shortenToSingleLine": true,
+  "cSpell.language": "en,es-ES",
+  "typescript.tsdk": "node_modules\\typescript\\lib",
+  "[typescript]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  },
+  "[xml]": {
+    "editor.defaultFormatter": "redhat.vscode-xml"
+  },
+  "search.exclude": {
+    "**/*.snap": true,
+    "**/*.svg": true,
+    "**/.git": true,
+    "**/.github": false,
+    "**/.nuxt": true,
+    "**/.output": true,
+    "**/.pnpm": true,
+    "**/.vscode": true,
+    "**/.yarn": true,
+    "**/assets": true,
+    "**/bower_components": true,
+    "**/dist/**": true,
+    "**/logs": true,
+    "**/node_modules": true,
+    "**/out/**": true,
+    "**/package-lock.json": true,
+    "**/pnpm-lock.yaml": true,
+    "**/public": true,
+    "**/temp": true,
+    "**/yarn.lock": true,
+    "**/CHANGELOG*": true,
+    "**/LICENSE*": true,
+  },
+}

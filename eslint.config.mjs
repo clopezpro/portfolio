@@ -50,5 +50,5 @@ export default withNuxt({
     'no-useless-catch': 'error',
     // reglas para ts
     '@typescript-eslint/no-unused-vars': 'off',
-  },
+  }
 })

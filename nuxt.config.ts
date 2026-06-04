@@ -9,21 +9,20 @@ export default defineNuxtConfig({
     'nuxt-og-image',
     'motion-v/nuxt'
   ],
-
   devtools: {
     enabled: true
   },
-
   css: ['~/assets/css/main.css'],
-
   content: {
     experimental: {
       sqliteConnector: 'native'
     }
   },
-
+  devServer: {
+    port: 4008,
+    host: '0.0.0.0' // Allows access from other devices on the network
+  },
   compatibilityDate: '2024-11-01',
-
   nitro: {
     prerender: {
       routes: [
@@ -32,7 +31,6 @@ export default defineNuxtConfig({
       crawlLinks: true
     }
   },
-
   eslint: {
     config: {
       stylistic: {
@@ -41,7 +39,6 @@ export default defineNuxtConfig({
       }
     }
   },
-
   ogImage: {
     zeroRuntime: true
   }
