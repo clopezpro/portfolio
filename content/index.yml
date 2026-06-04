@@ -1,24 +1,24 @@
 seo:
-  title: "Emma Thompson - UX/UI Designer"
-  description: "Welcome to my portfolio! I'm Emma Thompson, a UX/UI designer and front-end developer based in Boston. I specialize in creating user-centered digital experiences that are both beautiful and functional."
-title: "Hey, I'm Emma Thompson UX/UI Designer"
-description: "I craft intuitive digital experiences where design meets functionality. Based in Boston, bringing ideas to life through code and creativity."
+  title: "Christian Lòpez C - Fullstack Developer"
+  description: "Soy Christian Lòpez C, un desarrollador Fullstack con experiencia en la creación de aplicaciones web con Nuxt.js. Me apasiona crear experiencias digitales intuitivas y funcionales."
+title: "Hola, Soy Christian Lòpez C  Fullstack Developer"
+description: "Desarrollador web especializado en la creación de aplicaciones web con Nuxt.js. He participado en proyectos de gran escala, implementando soluciones innovadoras y eficientes para solucionar los problemas de mis clientes."
 hero:
   links:
-    - label: "Use this template"
+    - label: "Proyecto en GitHub"
       to: https://github.com/nuxt-ui-templates/portfolio
       color: "neutral"
   images:
     - src: /hero/random-1.avif
-      alt: Random Image 1
+      alt: Facturador Plus
     - src: /hero/random-2.avif
-      alt: Random Image 2
+      alt: Cotizador Siglo 21
     - src: /hero/random-3.avif
-      alt: Random Image 3
+      alt: Himnario Adventista 
     - src: /hero/random-4.avif
-      alt: Random Image 4
+      alt: SRI Match
     - src: /hero/random-5.avif
-      alt: Random Image 5
+      alt:  Lector de Facturas Electronicas
     - src: /hero/random-6.avif
       alt: Random Image 6
     - src: /hero/random-7.avif
