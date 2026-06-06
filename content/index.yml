@@ -1,120 +1,138 @@
 seo:
-  title: "Christian Lòpez C - Fullstack Developer"
-  description: "Soy Christian Lòpez C, un desarrollador Fullstack con experiencia en la creación de aplicaciones web con Nuxt.js. Me apasiona crear experiencias digitales intuitivas y funcionales."
-title: "Hola, Soy Christian Lòpez C  Fullstack Developer"
-description: "Desarrollador web especializado en la creación de aplicaciones web con Nuxt.js. He participado en proyectos de gran escala, implementando soluciones innovadoras y eficientes para solucionar los problemas de mis clientes."
+  title: "Christian López - Desarrollador Web Fullstack"
+  description: "Soy Christian López, un desarrollador Fullstack con experiencia en la creación de aplicaciones web con Nuxt.js. Me apasiona crear experiencias digitales intuitivas y funcionales."
+title: "Hola, Soy Christian López  Desarrollador Web Fullstack"
+description: "Con mas de 9 años de experiencia en el desarrollo de software, especializado en la creación de sistemas web completos y escalables con Nuxt, Typescript, PHP ."
 hero:
   links:
-    - label: "Proyecto en GitHub"
-      to: https://github.com/nuxt-ui-templates/portfolio
+    - label: "Perfil de GitHub"
+      to: https://github.com/clopezpro
       color: "neutral"
   images:
-    - src: /hero/random-1.avif
+    - src: /hero/OG IMG facturador.webp
       alt: Facturador Plus
-    - src: /hero/random-2.avif
-      alt: Cotizador Siglo 21
-    - src: /hero/random-3.avif
-      alt: Himnario Adventista 
-    - src: /hero/random-4.avif
-      alt: SRI Match
-    - src: /hero/random-5.avif
-      alt:  Lector de Facturas Electronicas
-    - src: /hero/random-6.avif
-      alt: Random Image 6
-    - src: /hero/random-7.avif
-      alt: Random Image 7
-    - src: /hero/random-8.avif
-      alt: Random Image 8
-    - src: /hero/random-9.avif
-      alt: Random Image 9
+    - src: /hero/og_quoter.webp
+      alt: Cotizador Siglo 21 
+    - src: /hero/og_lector.webp
+      alt: Lector de Facturas Electronicas
+    - src: /hero/osara.webp
+      alt: Osara
+   
 about:
-  title: "About Me"
+  title: "Acerca de mí"
   description: |
-    As a UX/UI designer and front-end developer with 6 years of experience, I leverage my Boston University Interactive Design degree to craft user-centered digital experiences.
-    My approach blends creative strategy with technical expertise, transforming concepts into functional, purposeful digital products that seamlessly integrate design and technology.
+    Soy un Desarrollador Fullstack con 6 años de experiencia en la creación de aplicaciones web con Nuxt.js. 
+    Empece usando PHP+JQuery+MYSQL.
+    Despues usando Vue.js + Node.js + Mongo.
+    Actualemnte uso Nuxt.js + Typescript + Mongo para desarrollos Fullstack por su rapidez y porque simplifica y acelera el desarrollo web.
+    
 experience:
-  title: Work Experience
+  title: "Experiencia Laboral (Contrato Fijo)"
   items:
-    - position: "Brand Designer at"
-      date: "2023 - Present"
+    - position: "Desarrollador Fullstack"
+      date: "2018 - Actual"
       company:
-        name: Nuxt
-        logo: "i-simple-icons-nuxtdotjs"
-        url: "https://nuxt.com"
-        color: "#00DC82"
-    - position: "Assets Designer at"
-      date: "2022 - 2023"
+        name: "Intertubep S.A"
+        logo: "i-simple-icons-nuxt"
+        url: "https://www.intertubep.com"
+        color: "#134ec0"
+    - position: "Desarrollador Jr"
+      date: "2017 - 2018"
       company:
-        name: Raycast
-        logo: "i-simple-icons-raycast"
-        url: "https://raycast.com"
+        name: Code Plus
+        logo: "i-simple-icons-windowsterminal"
+        url: "https://www.instagram.com/softwarecodeplus/"
         color: "#FF6363"
-    - position: "Senior UX/UI Designer at"
-      date: "2020 - 2021"
+    - position: "Tecnico de Informática"
+      date: "2012 - 2017"
       company:
-        name: Linear
-        logo: "i-simple-icons-linear"
+        name: "Lara Tecnology"
+        logo: "i-simple-icons-pcgamingwiki"
         url: "https://linear.app"
         color: "#5E6AD2"
+clients:
+  title: "Clientes (Freelance)"
+  items:
+    - name: "LP Motos Sport "
+      description: "Venta de respostos de moto"
+      logo: "https://res.cloudinary.com/facturador/image/upload/v1780629600/developer/facturador/0702099318001/logo_001.webp"
+    - name: "Dylan Store "
+      description: "Venta de Ropa deportiva"
+      logo: "https://res.cloudinary.com/facturador/image/upload/v1743351119/developer/facturador/0955267802001/logo_001.webp"
+    - name: "Electronica Silgo 21"
+      description: "Distribuidora de Tecnologia"
+      logo: "https://siglo21.net/wp-content/uploads/2023/11/logo_SG21_positivo.png"
+    - name: "Expotuna"
+      description: "Camaronera"
+      logo: ""
+    - name: "Ferriagro"
+      description: "Venta de Productos Agricolas"
+      logo: "https://res.cloudinary.com/facturador/image/upload/v1744855613/developer/facturador/0921704565001/logo_001.webp"
+  
 testimonials:
-  - quote: "Emma's approach to UX design completely transformed our product. She has a rare ability to balance beautiful aesthetics with functional simplicity. The redesign not only looked better, but it reduced our customer support tickets by 40% and increased conversion rates across all key metrics."
+  - quote: "Christian me ayudo con la implementacion del sistema de contable, nominas y cobranza en la empresa INTERTUBEP S.A"
     author:
-      name: 'Sarah Chen'
-      description: 'Product Director at Bloom Finance'
+      name: 'Cpa Rosa Moreira'
+      description: 'Contadora'
       avatar:
-        src: 'https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=40&h=40&q=80'
-        srcset: 'https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=80&h=80&q=80 2x'
-  - quote: "Working with Emma was the best decision we made for our startup. She didn't just deliver designs—she challenged our assumptions, conducted thorough user research, and created an experience that truly resonated with our audience. Her technical knowledge of front-end development meant the handoff to our engineering team was seamless."
+        src: 'https://res.cloudinary.com/facturador/image/upload/v1780706542/profolio/cpa-rosa-moreira.png'
+        srcset: 'https://res.cloudinary.com/facturador/image/upload/v1780706542/profolio/cpa-rosa-moreira.png'
+  - quote: "Christian fue una pieza clave en la transformacion digital de intertubep. Me ayudo realizar mi trabajo de manera eficiente y automatizada."
     author:
-      name: 'Michael Rodriguez'
-      description: 'Co-founder of Wavelength Music'
+      name: 'Manuel Rivadeneira'
+      description: 'Especialista en Atencion al Cliente'
       avatar:
-        src: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=40&h=40&q=80'
-        srcset: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=80&h=80&q=80 2x'
-  - quote: "Emma stands out in her ability to translate complex sustainability data into intuitive interfaces. Her work on EcoTrack wasn't just visually stunning—it fundamentally changed how our users interact with environmental information. She approaches each problem with both creativity and analytical rigor, which is exactly what we needed."
+        src: 'https://res.cloudinary.com/facturador/image/upload/v1780706834/profolio/manuel-rivadeneira.jpg'
+        srcset: 'https://res.cloudinary.com/facturador/image/upload/v1780706834/profolio/manuel-rivadeneira.jpg'
+  - quote: "Trabajar con Christian en el sistema Facturador Plus fue una experiencia muy positiva, ya que me ha permitido llevar una mejor gestion de la contabilidad y tener un mayor control de mis clientes."
     author:
-      name: 'Dr. Aisha Johnson'
-      description: 'Chief Innovation Officer at GreenTech Solutions'
+      name: 'CPA Mariela Banchon'
+      description: 'Contadora '
       avatar:
         src: 'https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=40&h=40&q=80'
         srcset: 'https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=80&h=80&q=80 2x'
 blog:
-  title: "Latest Articles"
-  description: "Some of my recent thoughts"
+  title: "Ultimos Articulos"
+  description: "Algunos pensamientos recientes"
 faq:
-  title: Frequently Asked Questions
-  description: Answers to common questions about my process and services.
+  title: Preguntas Frecuentes
+  description: Respuestas a preguntas comunes sobre mi proceso y servicios.
   categories:
-    - title: Services & Process
+    - title: Servicios y Proceso
       questions:
-        - label: What services do you offer?
+        - label: ¿Qué servicios ofreces?
           content: |
-            I specialize in UX/UI design and front-end development. This includes user research, wireframing, interactive prototyping, creating intuitive user interfaces, building responsive websites and web applications (especially with Vue.js/Nuxt.js), and developing design systems. My goal is to create seamless digital experiences from concept to deployment.
-        - label: What is your design process like?
+            Darrollo de sistemas web a medida para empresas, mantenimiento de software, tengo un SAS en el que ofresco servicios de facturacion electronica, nominas, contabilidad, cuentas por cobrar, cuentas por pagar, etc.
+        - label: ¿Qué stack usas actualmente?
           content: |
-            My process is collaborative and iterative, typically involving stages like Discovery & Research, Ideation & Prototyping, User Testing, Visual Design, and close collaboration with development teams during implementation. I tailor the process based on project needs, always focusing on user-centered solutions.
-        - label: Do you work with startups?
-          content: |
-            Absolutely! I enjoy working with startups to help shape their product vision and create user-friendly interfaces from the ground up. I can adapt my process to fit the fast-paced startup environment.
-    - title: Pricing & Timelines
+            Actualmente trabajo con Docker, Linux, Nuxt.js, Typescript, MongoDB y MariaDB. 
+    - title: Precio y tiempos
       questions:
-        - label: How much does a project typically cost?
+        - label: ¿Cuáles son tus términos de pago?
           content: |
-            Project costs vary based on scope, complexity, features, and timeline. For comprehensive UX/UI design and front-end development projects, my engagements typically start around $5,000, with average projects ranging between $8,000 and $25,000. For consulting or specific design tasks, my day rate is $700.
-        - label: What are your payment terms?
+            Generalmente requiero un depósito del 40% para programar el proyecto y comenzar a trabajar, con el 60% restante debido al finalizar el proyecto exitosamente y entregarlo. Acepto pagos mediante transferencia bancaria .
+        - label: ¿Cuánto tiempo lleva un proyecto típico?
           content: |
-            I generally require a 40% deposit to schedule the project and begin work, with the remaining 60% due upon successful project completion and delivery. I accept payments via bank transfer and Stripe.
-        - label: How long does a typical project take?
+            El tiempo que toma un proyecto puede variar significativamente dependiendo de la complejidad y el alcance del trabajo. Los proyectos más pequeños suelen tomar alrededor de 2 a 4 semanas, mientras que los proyectos más grandes y complejos pueden tomar entre 2 y 4 meses o más, dependiendo de los requerimientos.
+        - label: ¿Ofreces servicios de soporte continuo?
           content: |
-            Timelines depend heavily on the project's scope and complexity. Smaller projects might take 3-4 weeks, while larger, more involved projects can range from 2 to 4 months. I always provide a detailed timeline estimate after the initial discovery phase.
-        - label: Do you offer retainers or ongoing support?
-          content: |
-            Yes, for clients needing ongoing design support, feature development, or maintenance, I offer monthly retainer options tailored to specific needs. Let's discuss if this is something you're interested in.
-    - title: About Me
+             Sí, para clientes que necesitan soporte de desarrollo continuo, de nuevas características o mantenimiento, ofrezco opciones de cuota mensual adaptadas a las necesidades específicas.
+    - title: Sobre Trabajo Remoto o Hibrido
       questions:
-        - label: What do you enjoy most about your work?
+        - label: ¿Trabajarias con nosotros a largo plazo?
           content: |
-            I love the challenge of solving complex problems through design and technology. It's incredibly rewarding to see people interact with something I've created and find it genuinely useful and easy to navigate. Bridging the gap between user needs and technical possibilities is what truly excites me.
-        - label: What are your hobbies outside of work?
+            Sí, siempre y cuando haya un proyecto de por medio y una propuesta interesante.
+        - label: ¿Trabajarias Fuera del País?
           content: |
-            When I'm not designing or coding, I enjoy exploring Boston's neighborhoods, trying out new coffee shops, and hiking in the nearby reservations. I'm also passionate about photography and occasionally contribute to open-source projects.
+            Si es temporal, Si 
+        - label: ¿Trabajarias de forma Presencial?
+          content: |
+            Si, tengo disponibilidad para trabajar de forma presencial.     
+    - title: Sobre mi
+      questions:
+        - label: ¿Qué es lo que más disfrutas de tu trabajo?
+          content: |
+             Me apasiona el desafío de resolver problemas complejos a través del desarrollo de software y la tecnología. Es increíble ver cómo las personas interactúan con algo que he creado y lo encuentran realmente útil y fácil de usar. Cerrar la brecha entre las necesidades del usuario y las posibilidades técnicas es lo que realmente me entusiasma.
+        - label: ¿Qué hobbies tienes fuera del trabajo?
+          content: |
+            Fuera del trabajo me gusta pasar tiempo con mi familia, e ir al campo.

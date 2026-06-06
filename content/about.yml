@@ -1,27 +1,31 @@
-title: About Me
-description: Learn more about my journey as a Boston-based UX/UI Designer & Front-End Developer, my design philosophy, and my passion for crafting intuitive digital experiences.
+title: Sobre mí
+description: Descubre quién soy, mi recorrido en el mundo del diseño y el desarrollo, y lo que me apasiona de la creación de productos digitales.
 content: |
-  Hi, I'm **Emma Thompson**, a UX/UI Designer and Front-End Developer based right here in Boston. For the past six years, I've been immersed in the world of digital product creation, focusing on building experiences that are not just functional, but genuinely intuitive and engaging for users.
+  ¡Hola! Soy **Christian Manuel López Camacho**, un Desarrollador Full Stack con sede en Guayaquil Ecuador. Desde que comencé mi camino en el mundo del desarrollo de software, me ha fascinado la capacidad de transformar ideas abstractas en productos digitales funcionales e intuitivos. Mi experiencia abarca desde la escucha activa del cliente, el diseño de interfaces hasta la implementación, soporte y mantenimiento de soluciones técnicas eficientes, siempre buscando un balance entre la solución del problema y la experiencia del usuario.
 
-  My path started at **Boston University**, where I earned a degree in Interactive Design. It was there I discovered my dual passion for the visual language of design and the logical puzzle of code. Since then, I've honed my skills in both areas, believing that the best digital products are born from a deep understanding of both aesthetics and implementation.
+  Mi camino profesional me ha llevado a estar en diferentes etapas del ciclo de vida del desarrollo de software, donde he podido aplicar y fortalecer mis habilidades en el desarrollo front-end y back-end con tecnologías modernas, y la creación de soluciones innovadoras que resuelven problemas reales para los usuarios.
 
-  ### My Design Philosophy
+  ### Mi Filosofía
 
-  My design philosophy is rooted in **empathy** and **problem-solving**. I believe great design starts with understanding the 'why' – the user's needs, motivations, and pain points. I use research, iterative prototyping (often with tools like Figma), and user testing to ensure the solutions I build are truly effective.
+  Mi filosofía es crear soluciones que se sientan fluidas, en la cual la funcionalidad y la estética trabajen de la mano. Ya sea que esté programando interfaces perfectas o escribiendo código limpio con TypeScript, Vue.js/Nuxt.js, etc. mi objetivo es siempre crear valor para el usuario final.
 
-  I strive to create interfaces that feel effortless, where functionality and beauty work hand-in-hand. Whether I'm crafting pixel-perfect UIs or writing clean Vue.js/Nuxt.js code, my focus is always on creating value for the end-user.
+  ### Que me impulsa a seguir adelante
 
-  ### What Drives Me
+  Lo que me mantiene emocionado acerca de este trabajo es el aprendizaje constante y el desafío de traducir ideas complejas en soluciones simples y elegantes. No hay nada más gratificante que ver un diseño cobrar vida y saber que está haciendo que la interacción digital de alguien sea más fácil o más agradable.
 
-  What keeps me excited about this work is the constant learning and the challenge of translating complex ideas into simple, elegant solutions. There's nothing more rewarding than seeing a design come to life and knowing it's making someone's digital interaction easier or more enjoyable.
+  ### Más allá de la pantalla
 
-  ### Beyond the Screen
+  Cuando no estoy diseñando o programando, puedes encontrarme explorando la naturaleza junto a mi Hija o, ocasionalmente, contribuyendo a proyectos de código abierto.
 
-  When I'm not designing or coding, you might find me exploring Boston's latest coffee shops, hiking nearby trails, or occasionally contributing to open-source projects.
-
-  Thanks for stopping by. Feel free to browse my [projects](/projects) or [get in touch](/#contact) if you'd like to collaborate!
+  Gracias por visitar mi página. ¡No dudes en explorar mis [proyectos](/projects) o [ponerte en contacto](/#contact) si te gustaría colaborar!
 images:
-  - src: https://images.unsplash.com/photo-1744877478622-a78c7a3336f6?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-    alt: My coffee workspace
-  - src: https://images.unsplash.com/photo-1744429523595-2c06b8611242?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-    alt: My trip to Tokyo
+  - src: https://res.cloudinary.com/facturador/image/upload/v1780702532/profolio/christian-lopez-caballos.png
+    alt: Con mis caballos
+  - src: https://res.cloudinary.com/facturador/image/upload/v1780702812/profolio/christian-y-abigail-lopez.jpg
+    alt: Con Abigail Lopez Moran
+  - src: https://res.cloudinary.com/facturador/image/upload/v1780703226/profolio/ayp_utrj4z.png
+    alt: Intertubep S.A
+  - src: https://res.cloudinary.com/facturador/image/upload/v1780703651/profolio/en_codplus_ziueup.png
+    alt: Con mi equipo de CodePlus
+  - src: https://res.cloudinary.com/facturador/image/upload/v1780703749/profolio/en_grupo_meraki_mtihef.jpg
+    alt: Con mi equipo de Grupo Meraki

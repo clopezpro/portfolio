@@ -21,9 +21,9 @@ defineProps<{
           v-for="(experience, index) in page.experience.items"
           :key="index"
           :initial="{ opacity: 0, transform: 'translateY(20px)' }"
-          :while-in-view="{ opacity: 1, transform: 'translateY(0)' }"
+          :whileInView="{ opacity: 1, transform: 'translateY(0)' }"
           :transition="{ delay: 0.4 + 0.2 * index }"
-          :in-view-options="{ once: true }"
+          :inViewOptions="{ once: true }"
           class="text-muted flex items-center text-nowrap gap-2"
         >
           <p class="text-sm">

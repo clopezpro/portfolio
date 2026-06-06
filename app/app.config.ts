@@ -1,8 +1,8 @@
 export default defineAppConfig({
   global: {
     picture: {
-      dark: 'https://clopezpro.com/light-profile.png',
-      light: 'https://clopezpro.com/dark-profile.png',
+      dark: 'https://res.cloudinary.com/facturador/image/upload/v1780706048/profolio/dark-christian-lopez_imbrls.webp',
+      light: 'https://res.cloudinary.com/facturador/image/upload/v1780706047/profolio/light-christian-lopez_gwsfu0.webp',
       alt: 'Christian Lopez Perfil'
     },
     meetingLink: 'https://cal.com/clopezpro',

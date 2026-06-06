@@ -18,7 +18,7 @@ useHead({
 })
 
 useSeoMeta({
-  titleTemplate: '%s - Nuxt Portfolio Template',
+  titleTemplate: '%s - Christian Lopez Portafolio',
   twitterCard: 'summary_large_image'
 })
 

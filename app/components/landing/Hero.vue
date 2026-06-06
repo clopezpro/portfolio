@@ -111,7 +111,7 @@ defineProps<{
             variant="ghost"
             class="gap-2"
             :to="global.available ? global.meetingLink : ''"
-            :label="global.available ? 'Available for new projects' : 'Not available at the moment'"
+            :label="global.available ? 'Disponible para colaborar' : 'No disponible en este momento'"
           >
             <template #leading>
               <span class="relative flex size-2">
@@ -157,7 +157,7 @@ defineProps<{
     </template>
 
     <UMarquee
-      pause-on-hover
+      pauseOnHover
       class="py-2 -mx-8 sm:-mx-12 lg:-mx-16 [--duration:40s]"
     >
       <Motion
