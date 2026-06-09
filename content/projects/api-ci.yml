@@ -1,0 +1,6 @@
+title: API validación de cedulas y RUC
+description: Api que valida mediante un token el acceso, permite validar,placas cedulas y ruc, en base a informacion publica, usado netamente para sistemas privados y para confirmar que los datos de registro del cliente sean correctos.
+image: https://res.cloudinary.com/facturador/image/upload/v1781035883/profolio/api-consulta-cedula-ruc-placa.webp
+url: "https://api-ci.clopezpro.com/"
+tags: ["API", "Validacion de identidad Ecuatoriana", "API Privada", "Token"]
+date: "2019"

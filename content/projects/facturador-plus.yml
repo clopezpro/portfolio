@@ -1,0 +1,6 @@
+title: Facturador
+description: Sistema de facturación electrónica y de contabilidad con firmado electronica e integración al SRI, gestión de clientes, inventario, cuentas por cobrar y reportes. Desarrollado con Nuxt.js, Typescript y MongoDB, multiempresa y multisucursal.
+image: https://res.cloudinary.com/facturador/image/upload/v1781022926/profolio/facturador-plus-light.webp
+url: "https://facturador.clopezpro.com"
+tags: ["Facturador", "Electrónico", "Contabilidad","ERP","Sistema Contable"]
+date: "2024"

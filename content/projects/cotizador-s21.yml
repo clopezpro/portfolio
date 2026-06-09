@@ -1,0 +1,6 @@
+title: Cotizador S21
+description: Aplicación web con sockets y buscador ultra rápido que genera cotizaciones instantáneas y ayuda al vendedor brindar una atención rápida, diseñado específicamente para la compañía Electrónica Siglo 21.
+image: https://res.cloudinary.com/facturador/image/upload/v1781036373/profolio/cotizador-siglo-21_updjfv.webp
+url: "#"
+tags: ["Cotizador", "Siglo21", "Buscador ultra rápido","Programa Local","Nuxt.js"]
+date: "2023"
