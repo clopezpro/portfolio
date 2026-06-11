@@ -30,14 +30,5 @@
     "typescript": "^6.0.3",
     "vue-tsc": "^3.3.3"
   },
-  "packageManager": "pnpm@11.5.0",
-  "pnpm": {
-    "onlyBuiltDependencies": [
-      "@parcel/watcher",
-      "esbuild",
-      "sharp",
-      "unrs-resolver",
-      "vue-demi"
-    ]
-  }
+  "packageManager": "pnpm@11.5.0"
 }
