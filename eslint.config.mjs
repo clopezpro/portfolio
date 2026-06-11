@@ -49,6 +49,6 @@ export default withNuxt({
     // Configurar no-unused-vars para ser más permisivo con archivos de tipos
     'no-useless-catch': 'error',
     // reglas para ts
-    '@typescript-eslint/no-unused-vars': 'off',
+    '@typescript-eslint/no-unused-vars': 'off'
   }
 })
