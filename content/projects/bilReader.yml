@@ -1,0 +1,6 @@
+title: Lector online de comprobantes electrónicos de Ecuador
+description: Herramienta web, que permite la lectura de comprobantes electrónicos ecuatorianos, puede leer desde un archivo XML o desde la clave de acceso consultando los web services del SRI.
+image: https://res.cloudinary.com/facturador/image/upload/v1781035883/profolio/bilreader.webp
+url: "https://clopezpro.com/projects/bilReader"
+tags: ["Web app", "Comprobantes electrónicos", "SRI"]
+date: "2022-11"
