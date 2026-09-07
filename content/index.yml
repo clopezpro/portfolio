@@ -1,11 +1,11 @@
 seo:
   title: "Christian López - Desarrollador Web Fullstack"
   description: "Soy Christian López, un desarrollador Fullstack con experiencia en la creación de aplicaciones web con Nuxt.js. Me apasiona crear experiencias digitales intuitivas y funcionales."
-title: "Hola, Soy Christian López  Desarrollador Web Fullstack"
-description: "Con mas de 9 años de experiencia en el desarrollo de software, especializado en la creación de sistemas web completos y escalables con Nuxt, Typescript, PHP ."
+title: "Hola, Soy Christian López  Desarrollador Web Fullstack y proveedor de facturación electronica en Ecuador"
+description: "Tengo mas de 9 años de experiencia en el desarrollo de software contable, facturación electronica y ERP, me especializado en ambiente web, específicamente con Nuxt, Typescript, PHP . (Amo VUE, Linux y todo su ecosistema)."
 hero:
   links:
-    - label: "Perfil de GitHub"
+    - label: "Perfil Desarrollador GitHub"
       to: https://github.com/clopezpro
       color: "neutral"
   images:
@@ -21,13 +21,13 @@ hero:
 about:
   title: "Acerca de mí"
   description: |
-    Soy un Desarrollador Fullstack con 6 años de experiencia en la creación de aplicaciones web con Nuxt.js. 
-    Empece usando PHP+JQuery+MYSQL.
-    Despues usando Vue.js + Node.js + Mongo.
-    Actualemnte uso Nuxt.js + Typescript + Mongo para desarrollos Fullstack por su rapidez y porque simplifica y acelera el desarrollo web.
+    Soy un Desarrollador Fullstack con mas de 9 años de experiencia en la creación de aplicaciones web en Ecuador. 
+    Estoy enfocado en sistemas contables y de gestión empresarial para pequeñas y medianas empresas.
+    Trabajo de la mano con contadores, gerentes y dueños de negocios para entender sus necesidades y crear soluciones.
+    Soy el desarrollador y responsable del Sistema contable Facturador, un software de facturación electrónica, contabilidad y gestión empresarial que ayuda a las empresas a cumplir con las regulaciones fiscales y mejorar su eficiencia operativa.
     
 experience:
-  title: "Experiencia Laboral (Contrato Fijo)"
+  title: "Experiencia Laboral "
   items:
     - position: "Desarrollador Fullstack"
       date: "2018 - Actual"
@@ -93,7 +93,6 @@ testimonials:
         srcset: 'https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=80&h=80&q=80 2x'
 blog:
   title: "Ultimos Articulos"
-  description: "Algunos pensamientos recientes"
 faq:
   title: Preguntas Frecuentes
   description: Respuestas a preguntas comunes sobre mi proceso y servicios.

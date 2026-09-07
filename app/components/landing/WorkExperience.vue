@@ -50,6 +50,49 @@ defineProps<{
       </div>
     </template>
   </UPageSection>
+  <UPageSection
+    title="Como proveedor 0931048003001 de Facturación Electrónica en Ecuador"
+    :ui="{
+      container: 'p-0! gap-4 sm:gap-4',
+      title: 'text-left text-xl sm:text-xl lg:text-2xl font-medium',
+      description: 'mt-2'
+    }"
+  >
+    <template #description>
+      <div class="flex flex-col gap-2">
+        <Motion
+
+          :initial="{ opacity: 0, transform: 'translateY(20px)' }"
+          :whileInView="{ opacity: 1, transform: 'translateY(0)' }"
+          :transition="{ delay: 0.4 + 0.2 * 0 }"
+          :inViewOptions="{ once: true }"
+          class="text-muted flex items-center text-nowrap gap-2"
+        >
+          <p class="text-sm">
+            2023 - Actualidad
+          </p>
+          <USeparator />
+          <ULink
+            class="flex items-center gap-1"
+            to="https://facturador.clopezpro.com"
+            target="_blank"
+          >
+            Facturador
+          </ULink>
+        </Motion>
+        <div class=" text-balance text-left mt-3 text-sm sm:text-md lg:text-sm text-muted">
+          Actualmente mantengo el desarrollo continuo del sistema
+          <ULink
+
+            to="https://facturador.clopezpro.com"
+            target="_blank"
+          >
+            Facturador
+          </ULink>, bajo el Ruc Proveedor 0931048003001 mediante la actividad J62021002 según la resolución No. NAC-DGERCGC26-00000027
+        </div>
+      </div>
+    </template>
+  </UPageSection>
 </template>
 
 <style scoped>
