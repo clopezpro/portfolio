@@ -50,17 +50,18 @@ defineOgImage('Portfolio', { title, description })
         container: 'pt-0!'
       }"
     >
-      <MDC
-        :value="page.content"
-        unwrap="p"
-      />
-      <div class="flex flex-row justify-center items-center py-10 -space-x-8">
-        <PolaroidItem
-          v-for="(image, index) in page.images"
-          :key="index"
-          :image="image"
-          :index
-        />
+      <div class="max-w-3xl space-y-6 text-base text-muted leading-relaxed">
+        <MDC :value="page.content" />
+      </div>
+      <div class="py-8">
+        <div class="flex flex-row justify-center items-center py-4 -space-x-6 sm:-space-x-8 overflow-x-auto max-w-full px-4">
+          <PolaroidItem
+            v-for="(image, index) in page.images"
+            :key="index"
+            :image="image"
+            :index="index"
+          />
+        </div>
       </div>
     </UPageSection>
   </UPage>

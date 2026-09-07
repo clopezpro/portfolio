@@ -1,23 +1,25 @@
 title: Sobre mí
-description: Descubre quién soy, mi recorrido en el mundo del diseño y el desarrollo, y lo que me apasiona de la creación de productos digitales.
+description: "Más allá del código y la arquitectura de software: mi lado más humano, mi familia y mi pasión por los caballos."
 content: |
-  ¡Hola! Soy **Christian Manuel López Camacho**, un Desarrollador Full Stack con sede en Guayaquil Ecuador. Desde que comencé mi camino en el mundo del desarrollo de software, me ha fascinado la capacidad de transformar ideas abstractas en productos digitales funcionales e intuitivos. Mi experiencia abarca desde la escucha activa del cliente, el diseño de interfaces hasta la implementación, soporte y mantenimiento de soluciones técnicas eficientes, siempre buscando un balance entre la solución del problema y la experiencia del usuario.
+  Soy **Christian Manuel López Camacho**. En el plano profesional, paso mis días desarrollando software. Pero este espacio no es para hablar de especificaciones técnicas ni de despliegues ni de que VUE es el mejor que React; es para compartir quién soy cuando apago el monitor y me desconecto del ruido digital.
 
-  Mi camino profesional me ha llevado a estar en diferentes etapas del ciclo de vida del desarrollo de software, donde he podido aplicar y fortalecer mis habilidades en el desarrollo front-end y back-end con tecnologías modernas, y la creación de soluciones innovadoras que resuelven problemas reales para los usuarios.
+  ### Mi pasión por los caballos y el campo
 
-  ### Mi Filosofía
+  Si hay un lugar donde realmente encuentro paz y claridad, es en el campo junto a mis caballos, tengo una Yegua y un Potro. Para mí, los caballos nunca han sido un simple pasatiempo; son una verdadera pasión y una escuela de vida.
 
-  Mi filosofía es crear soluciones que se sientan fluidas, en la cual la funcionalidad y la estética trabajen de la mano. Ya sea que esté programando interfaces perfectas o escribiendo código limpio con TypeScript, Vue.js/Nuxt.js, etc. mi objetivo es siempre crear valor para el usuario final.
+  Tratar con estos animales exige respeto y paciencia. A un animal noble no se le puede engañar ni apresurar; percibe tu estado de ánimo de inmediato y te obliga a estar en calma, con los pies en la tierra. Montar, cuidarlos y convivir con ellos es mi mejor terapia: me devuelve el enfoque, me enseña a mantener la cabeza fría bajo cualquier circunstancia y me recuerda el valor del trabajo constante y silencioso.
 
-  ### Que me impulsa a seguir adelante
+  ### Abigail y mi motor diario
 
-  Lo que me mantiene emocionado acerca de este trabajo es el aprendizaje constante y el desafío de traducir ideas complejas en soluciones simples y elegantes. No hay nada más gratificante que ver un diseño cobrar vida y saber que está haciendo que la interacción digital de alguien sea más fácil o más agradable.
+  Mi hija Abigail es la razón principal detrás de cada esfuerzo. Disfrutar de su niñez, salir juntos a descubrir la naturaleza y ver el mundo a través de sus ojos es lo que le da verdadero sentido a todo lo que construyo. Al final del día, ninguna meta tecnológica o profesional se compara con el tiempo compartido en familia y la tranquilidad de saber que estoy dejando un ejemplo de honestidad y perseverancia.
 
-  ### Más allá de la pantalla
+  ### El equilibrio entre dos mundos
 
-  Cuando no estoy diseñando o programando, puedes encontrarme explorando la naturaleza junto a mi Hija o, ocasionalmente, contribuyendo a proyectos de código abierto.
+  A primera vista, la informática y el mundo ecuestre parecen opuestos: uno es pura lógica abstracta, servidores y pantallas; el otro es tierra, fuerza, instinto y aire libre. Sin embargo, en mi vida se complementan a la perfección. La disciplina y la serenidad que aprendo en el campo son exactamente las que me permiten abordar problemas complejos de ingeniería de software sin perder la calma.
 
-  Gracias por visitar mi página. ¡No dudes en explorar mis [proyectos](/projects) o [ponerte en contacto](/#contact) si te gustaría colaborar!
+  En el camino también he tenido la fortuna de coincidir con equipos, empresas y colegas que se han convertido en grandes aliados y amigos. Para mí, las relaciones humanas honestas siempre estarán por encima de cualquier línea de código.
+
+  ¡Gracias por darte el tiempo de conocer esta faceta mía! Si deseas hablar de proyectos, tecnología o simplemente compartir una buena charla, eres bienvenido a revisar mis [proyectos](/projects) o [ponerte en contacto](/#contact).
 images:
   - src: https://res.cloudinary.com/facturador/image/upload/v1780702532/profolio/christian-lopez-caballos.png
     alt: Con mis caballos
