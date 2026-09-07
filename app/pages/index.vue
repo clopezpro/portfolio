@@ -73,13 +73,51 @@ useHead({
 <template>
   <UPage v-if="page">
     <LandingHero :page />
-    <LandingAbout :page />
-    <LandingProviderSection
+
+    <Motion
+      :initial="{ opacity: 0, transform: 'translateY(24px)' }"
+      :whileInView="{ opacity: 1, transform: 'translateY(0)' }"
+      :transition="{ duration: 0.6, ease: 'easeOut' }"
+      :inViewOptions="{ once: true }"
+    >
+      <LandingAbout :page />
+    </Motion>
+
+    <Motion
       v-if="page.provider"
-      :provider="page.provider"
-    />
-    <LandingProjectsCarousel />
-    <LandingBlog :page />
-    <LandingTestimonials :page />
+      :initial="{ opacity: 0, transform: 'translateY(24px)' }"
+      :whileInView="{ opacity: 1, transform: 'translateY(0)' }"
+      :transition="{ duration: 0.6, ease: 'easeOut' }"
+      :inViewOptions="{ once: true }"
+    >
+      <LandingProviderSection :provider="page.provider" />
+    </Motion>
+
+    <Motion
+      :initial="{ opacity: 0, transform: 'translateY(24px)' }"
+      :whileInView="{ opacity: 1, transform: 'translateY(0)' }"
+      :transition="{ duration: 0.6, ease: 'easeOut' }"
+      :inViewOptions="{ once: true }"
+    >
+      <LandingProjectsCarousel />
+    </Motion>
+
+    <Motion
+      :initial="{ opacity: 0, transform: 'translateY(24px)' }"
+      :whileInView="{ opacity: 1, transform: 'translateY(0)' }"
+      :transition="{ duration: 0.6, ease: 'easeOut' }"
+      :inViewOptions="{ once: true }"
+    >
+      <LandingBlog :page />
+    </Motion>
+
+    <Motion
+      :initial="{ opacity: 0, transform: 'translateY(24px)' }"
+      :whileInView="{ opacity: 1, transform: 'translateY(0)' }"
+      :transition="{ duration: 0.6, ease: 'easeOut' }"
+      :inViewOptions="{ once: true }"
+    >
+      <LandingTestimonials :page />
+    </Motion>
   </UPage>
 </template>
