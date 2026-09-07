@@ -78,6 +78,7 @@ useHead({
       v-if="page.provider"
       :provider="page.provider"
     />
+    <LandingProjectsCarousel />
     <LandingBlog :page />
     <LandingTestimonials :page />
   </UPage>
