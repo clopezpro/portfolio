@@ -1,0 +1,21 @@
+{
+  "name": "Christian López | Desarrollador de Sistemas y Proveedor Autorizado SRI",
+  "short_name": "Christian López",
+  "icons": [
+    {
+      "src": "/web-app-manifest-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/web-app-manifest-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "theme_color": "#00DC82",
+  "background_color": "#020618",
+  "display": "standalone"
+}
