@@ -56,7 +56,7 @@ export default defineContentConfig({
               color: z.string()
             })
           }))
-        }),
+        }).optional(),
         testimonials: z.array(createTestimonialSchema()),
         provider: z.object({
           badge: z.string().optional(),

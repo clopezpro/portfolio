@@ -24,33 +24,8 @@ about:
     Soy un desarrollador Fullstack con más de 9 años de experiencia en la creación de aplicaciones web en Ecuador. 
     Estoy enfocado en sistemas contables y de gestión empresarial para pequeñas y medianas empresas.
     Trabajo de la mano con contadores, gerentes y dueños de negocios para entender sus necesidades y crear soluciones eficientes.
-    Soy el desarrollador y responsable del sistema contable Facturador, un software de facturación electrónica, contabilidad y gestión empresarial que ayuda a las empresas a cumplir con las regulaciones fiscales y optimizar su eficiencia operativa.
+    Soy el desarrollador y responsable del sistema contable Facturador.
     
-experience:
-  title: "Experiencia Laboral"
-  items:
-    - position: "Desarrollador Fullstack"
-      date: "2018 - Actual"
-      company:
-        name: "Intertubep S.A"
-        logo: "i-simple-icons-nuxt"
-        url: "https://www.intertubep.com"
-        color: "#134ec0"
-    - position: "Desarrollador Jr"
-      date: "2017 - 2018"
-      company:
-        name: Code Plus
-        logo: "i-simple-icons-windowsterminal"
-        url: "https://www.instagram.com/softwarecodeplus/"
-        color: "#FF6363"
-    - position: "Técnico de Informática"
-      date: "2012 - 2017"
-      company:
-        name: "Lara Tecnology"
-        logo: "i-simple-icons-pcgamingwiki"
-        url: "https://linear.app"
-        color: "#5E6AD2"
-
 provider:
   badge: "Acreditación Oficial SRI"
   title: "Como proveedor 0931048003001 de Facturación Electrónica en Ecuador"
