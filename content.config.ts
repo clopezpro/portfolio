@@ -84,7 +84,7 @@ export default defineContentConfig({
                 })
               )
             }))
-        })
+        }).optional()
       })
     }),
     projects: defineCollection({
