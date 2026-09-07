@@ -150,4 +150,5 @@
     "**/CHANGELOG*": true,
     "**/LICENSE*": true,
   },
+  "js/ts.experimental.useTsgo": false,
 }
