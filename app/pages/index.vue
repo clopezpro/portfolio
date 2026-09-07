@@ -15,8 +15,11 @@ useSeoMeta({
   ogTitle: page.value?.seo.title || page.value?.title,
   titleTemplate: '%s',
   description: page.value?.seo.description || page.value?.description,
-  ogDescription: page.value?.seo.description || page.value?.description,
-  ogImage: 'og_cl.png'
+  ogImage: '/og_cl.png',
+  twitterImage: '/og_cl.png',
+  ogImageWidth: 1200,
+  ogImageHeight: 630,
+  ogImageType: 'image/png'
 })
 
 useHead({
