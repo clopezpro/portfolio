@@ -1,8 +1,8 @@
 seo:
-  title: "Christian López - Desarrollador Web Fullstack"
-  description: "Soy Christian López, un desarrollador Fullstack con experiencia en la creación de aplicaciones web con Nuxt.js. Me apasiona crear experiencias digitales intuitivas y funcionales."
-title: "Hola, Soy Christian López  Desarrollador Web Fullstack y proveedor de facturación electronica en Ecuador"
-description: "Tengo mas de 9 años de experiencia en el desarrollo de software contable, facturación electronica y ERP, me especializado en ambiente web, específicamente con Nuxt, Typescript, PHP . (Amo VUE, Linux y todo su ecosistema)."
+  title: "Christian López | Proveedor Autorizado SRI (RUC 0931048003001) - Facturación Electrónica Ecuador"
+  description: "Portafolio y servicios de Christian López, desarrollador Fullstack y proveedor autorizado por el SRI (RUC 0931048003001) según resolución NAC-DGERCGC26-00000027. Sistema Facturador y software contable."
+title: "Hola, soy Christian López, desarrollador web Fullstack y proveedor de facturación electrónica en Ecuador"
+description: "Tengo más de 9 años de experiencia en el desarrollo de software contable, facturación electrónica y ERP. Me he especializado en ambiente web, específicamente con Nuxt, TypeScript y PHP. (Apasionado de Vue, Linux y su ecosistema)."
 hero:
   links:
     - label: "Perfil Desarrollador GitHub"
@@ -14,20 +14,20 @@ hero:
     - src: /hero/og_quoter.webp
       alt: Cotizador Siglo 21 
     - src: /hero/og_lector.webp
-      alt: Lector de Facturas Electronicas
+      alt: Lector de Facturas Electrónicas
     - src: /hero/osara.webp
       alt: Osara
    
 about:
   title: "Acerca de mí"
   description: |
-    Soy un Desarrollador Fullstack con mas de 9 años de experiencia en la creación de aplicaciones web en Ecuador. 
+    Soy un desarrollador Fullstack con más de 9 años de experiencia en la creación de aplicaciones web en Ecuador. 
     Estoy enfocado en sistemas contables y de gestión empresarial para pequeñas y medianas empresas.
-    Trabajo de la mano con contadores, gerentes y dueños de negocios para entender sus necesidades y crear soluciones.
-    Soy el desarrollador y responsable del Sistema contable Facturador, un software de facturación electrónica, contabilidad y gestión empresarial que ayuda a las empresas a cumplir con las regulaciones fiscales y mejorar su eficiencia operativa.
+    Trabajo de la mano con contadores, gerentes y dueños de negocios para entender sus necesidades y crear soluciones eficientes.
+    Soy el desarrollador y responsable del sistema contable Facturador, un software de facturación electrónica, contabilidad y gestión empresarial que ayuda a las empresas a cumplir con las regulaciones fiscales y optimizar su eficiencia operativa.
     
 experience:
-  title: "Experiencia Laboral "
+  title: "Experiencia Laboral"
   items:
     - position: "Desarrollador Fullstack"
       date: "2018 - Actual"
@@ -43,95 +43,131 @@ experience:
         logo: "i-simple-icons-windowsterminal"
         url: "https://www.instagram.com/softwarecodeplus/"
         color: "#FF6363"
-    - position: "Tecnico de Informática"
+    - position: "Técnico de Informática"
       date: "2012 - 2017"
       company:
         name: "Lara Tecnology"
         logo: "i-simple-icons-pcgamingwiki"
         url: "https://linear.app"
         color: "#5E6AD2"
+
+provider:
+  badge: "Acreditación Oficial SRI"
+  title: "Como proveedor 0931048003001 de Facturación Electrónica en Ecuador"
+  ruc: "0931048003001"
+  resolution: "No. NAC-DGERCGC26-00000027"
+  activity: "J62021002 - Consultoría e instalación de software contable y de facturación"
+  date: "2023 - Actualidad"
+  systemName: "Facturador"
+  systemUrl: "https://facturador.clopezpro.com"
+  systemImage: "https://res.cloudinary.com/facturador/image/upload/v1781022926/profolio/facturador-plus-light.webp"
+  description: "Mantengo el desarrollo continuo y soporte técnico directo del sistema Facturador, operando bajo el RUC Proveedor 0931048003001 conforme a la resolución No. NAC-DGERCGC26-00000027 del SRI. Software verificado, legal y sin intermediarios para empresas, comercios y contadores."
+  trustPoints:
+    - "Conexión directa con los Web Services del SRI (ambientes de pruebas y producción)"
+    - "Firma electrónica válida XAdES-BES en Facturas, Retenciones, Guías y Notas de Crédito"
+    - "Software 100% de autoría propia, con soporte y actualizaciones normativas directas"
+    - "Emisión ilimitada, control multiempresa y licenciamiento legal sin riesgos de estafa"
+  ctaLinks:
+    - label: "Probar Demo de Facturador"
+      icon: "i-lucide-external-link"
+      to: "https://facturador.clopezpro.com"
+      color: "primary"
+      target: "_blank"
+    - label: "Comprar Licencias / Contactar"
+      icon: "i-lucide-mail"
+      to: "mailto:clopezpro@outlook.com?subject=Consulta%20Licencias%20Facturador%20SRI"
+      color: "neutral"
+
 clients:
   title: "Clientes (Freelance)"
   items:
-    - name: "LP Motos Sport "
-      description: "Venta de respostos de moto"
+    - name: "LP Motos Sport"
+      description: "Venta de repuestos de moto"
       logo: "https://res.cloudinary.com/facturador/image/upload/v1780629600/developer/facturador/0702099318001/logo_001.webp"
-    - name: "Dylan Store "
-      description: "Venta de Ropa deportiva"
+    - name: "Dylan Store"
+      description: "Venta de ropa deportiva"
       logo: "https://res.cloudinary.com/facturador/image/upload/v1743351119/developer/facturador/0955267802001/logo_001.webp"
-    - name: "Electronica Silgo 21"
-      description: "Distribuidora de Tecnologia"
+    - name: "Electrónica Siglo 21"
+      description: "Distribuidora de tecnología"
       logo: "https://siglo21.net/wp-content/uploads/2023/11/logo_SG21_positivo.png"
     - name: "Expotuna"
       description: "Camaronera"
       logo: ""
     - name: "Ferriagro"
-      description: "Venta de Productos Agricolas"
+      description: "Venta de productos agrícolas"
       logo: "https://res.cloudinary.com/facturador/image/upload/v1744855613/developer/facturador/0921704565001/logo_001.webp"
   
 testimonials:
-  - quote: "Christian me ayudo con la implementacion del sistema de contable, nominas y cobranza en la empresa INTERTUBEP S.A"
+  - quote: "Christian me ayudó con la implementación del sistema contable, nóminas y cobranza en la empresa INTERTUBEP S.A."
     author:
       name: 'Cpa Rosa Moreira'
       description: 'Contadora'
       avatar:
         src: 'https://res.cloudinary.com/facturador/image/upload/v1780706542/profolio/cpa-rosa-moreira.png'
         srcset: 'https://res.cloudinary.com/facturador/image/upload/v1780706542/profolio/cpa-rosa-moreira.png'
-  - quote: "Christian fue una pieza clave en la transformacion digital de intertubep. Me ayudo realizar mi trabajo de manera eficiente y automatizada."
+  - quote: "Christian fue una pieza clave en la transformación digital de Intertubep. Me ayudó a realizar mi trabajo de manera eficiente y automatizada."
     author:
       name: 'Manuel Rivadeneira'
-      description: 'Especialista en Atencion al Cliente'
+      description: 'Especialista en Atención al Cliente'
       avatar:
         src: 'https://res.cloudinary.com/facturador/image/upload/v1780706834/profolio/manuel-rivadeneira.jpg'
         srcset: 'https://res.cloudinary.com/facturador/image/upload/v1780706834/profolio/manuel-rivadeneira.jpg'
-  - quote: "Trabajar con Christian en el sistema Facturador Plus fue una experiencia muy positiva, ya que me ha permitido llevar una mejor gestion de la contabilidad y tener un mayor control de mis clientes."
+  - quote: "Trabajar con Christian en el sistema Facturador Plus fue una experiencia muy positiva, ya que me ha permitido llevar una mejor gestión de la contabilidad y tener un mayor control de mis clientes."
     author:
       name: 'CPA Mariela Banchon'
-      description: 'Contadora '
+      description: 'Contadora'
       avatar:
         src: 'https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=40&h=40&q=80'
         srcset: 'https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=80&h=80&q=80 2x'
 blog:
-  title: "Ultimos Articulos"
+  title: "Últimos Artículos"
 faq:
   title: Preguntas Frecuentes
   description: Respuestas a preguntas comunes sobre mi proceso y servicios.
   categories:
+    - title: Facturación Electrónica y Licencias SRI
+      questions:
+        - label: ¿Cómo puedo adquirir una licencia de Facturador y verificar tu acreditación ante el SRI?
+          content: |
+            Puedes adquirir licencias directamente escribiendo a clopezpro@outlook.com o agendando una llamada en cal.com/clopezpro. Mi acreditación como proveedor de facturación electrónica puede ser verificada oficialmente ante el SRI con el RUC 0931048003001, bajo la resolución No. NAC-DGERCGC26-00000027 y actividad económica J62021002. El sistema Facturador es 100% de mi autoría, garantizando soporte directo, legalidad y seguridad sin intermediarios.
+        - label: ¿El sistema Facturador cumple con todos los requisitos del SRI?
+          content: |
+            Sí. Facturador se conecta de forma directa a los Web Services del SRI, soporta firma electrónica en formato XAdES-BES, maneja comprobantes autorizados (Facturas, Retenciones, Notas de Crédito, Débito y Guías de Remisión) y genera automáticamente los archivos XML y RIDE en PDF.
     - title: Servicios y Proceso
       questions:
         - label: ¿Qué servicios ofreces?
           content: |
-            Darrollo de sistemas web a medida para empresas, mantenimiento de software, tengo un SAS en el que ofresco servicios de facturacion electronica, nominas, contabilidad, cuentas por cobrar, cuentas por pagar, etc.
+            Desarrollo de sistemas web a medida para empresas, mantenimiento de software, y servicios SaaS de facturación electrónica, nóminas, contabilidad, cuentas por cobrar y cuentas por pagar.
         - label: ¿Qué stack usas actualmente?
           content: |
-            Actualmente trabajo con Docker, Linux, Nuxt.js, Typescript, MongoDB y MariaDB. 
+            Actualmente trabajo con Docker, Linux, Nuxt, TypeScript, MongoDB y MariaDB.
     - title: Precio y tiempos
       questions:
         - label: ¿Cuáles son tus términos de pago?
           content: |
-            Generalmente requiero un depósito del 40% para programar el proyecto y comenzar a trabajar, con el 60% restante debido al finalizar el proyecto exitosamente y entregarlo. Acepto pagos mediante transferencia bancaria .
+            Generalmente requiero un depósito del 40% para programar el proyecto y comenzar a trabajar, con el 60% restante debido al finalizar el proyecto exitosamente y entregarlo. Acepto pagos mediante transferencia bancaria.
         - label: ¿Cuánto tiempo lleva un proyecto típico?
           content: |
-            El tiempo que toma un proyecto puede variar significativamente dependiendo de la complejidad y el alcance del trabajo. Los proyectos más pequeños suelen tomar alrededor de 2 a 4 semanas, mientras que los proyectos más grandes y complejos pueden tomar entre 2 y 4 meses o más, dependiendo de los requerimientos.
+            El tiempo que toma un proyecto varía según su complejidad y alcance. Los proyectos pequeños suelen tomar de 2 a 4 semanas, mientras que plataformas más complejas toman entre 2 y 4 meses o más.
         - label: ¿Ofreces servicios de soporte continuo?
           content: |
-             Sí, para clientes que necesitan soporte de desarrollo continuo, de nuevas características o mantenimiento, ofrezco opciones de cuota mensual adaptadas a las necesidades específicas.
-    - title: Sobre Trabajo Remoto o Hibrido
+            Sí, para clientes que necesitan soporte continuo, nuevas características o mantenimiento normativo, ofrezco planes mensuales adaptados a cada necesidad.
+    - title: Sobre Trabajo Remoto o Híbrido
       questions:
-        - label: ¿Trabajarias con nosotros a largo plazo?
+        - label: ¿Trabajarías con nosotros a largo plazo?
           content: |
-            Sí, siempre y cuando haya un proyecto de por medio y una propuesta interesante.
-        - label: ¿Trabajarias Fuera del País?
+            Sí, siempre y cuando exista un proyecto de por medio y una propuesta sólida.
+        - label: ¿Trabajarías fuera del país?
           content: |
-            Si es temporal, Si 
-        - label: ¿Trabajarias de forma Presencial?
+            Si es temporal, sí.
+        - label: ¿Trabajarías de forma presencial?
           content: |
-            Si, tengo disponibilidad para trabajar de forma presencial.     
-    - title: Sobre mi
+            Sí, tengo disponibilidad para laborar de forma presencial en proyectos clave.
+    - title: Sobre mí
       questions:
         - label: ¿Qué es lo que más disfrutas de tu trabajo?
           content: |
-             Me apasiona el desafío de resolver problemas complejos a través del desarrollo de software y la tecnología. Es increíble ver cómo las personas interactúan con algo que he creado y lo encuentran realmente útil y fácil de usar. Cerrar la brecha entre las necesidades del usuario y las posibilidades técnicas es lo que realmente me entusiasma.
+            Me apasiona el desafío de resolver problemas complejos a través del desarrollo de software y la tecnología. Cerrar la brecha entre las necesidades fiscales y operativas del negocio y las posibilidades técnicas es lo que me entusiasma.
         - label: ¿Qué hobbies tienes fuera del trabajo?
           content: |
-            Fuera del trabajo me gusta pasar tiempo con mi familia, e ir al campo.
+            Fuera del trabajo me gusta pasar tiempo con mi familia e ir al campo.

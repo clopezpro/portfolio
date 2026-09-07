@@ -58,6 +58,20 @@ export default defineContentConfig({
           }))
         }),
         testimonials: z.array(createTestimonialSchema()),
+        provider: z.object({
+          badge: z.string().optional(),
+          title: z.string(),
+          ruc: z.string(),
+          resolution: z.string(),
+          activity: z.string(),
+          date: z.string(),
+          systemName: z.string(),
+          systemUrl: z.string(),
+          systemImage: z.string().optional(),
+          description: z.string(),
+          trustPoints: z.array(z.string()).optional(),
+          ctaLinks: z.array(createButtonSchema()).optional()
+        }).optional(),
         blog: createBaseSchema(),
         faq: createBaseSchema().extend({
           categories: z.array(
