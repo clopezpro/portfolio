@@ -124,9 +124,6 @@ defineProps<{
         >
           <div class="flex flex-wrap items-center justify-between gap-2">
             <div>
-              <p class="text-xs text-primary font-semibold tracking-wide uppercase">
-                Software Desarrollado y Certificado
-              </p>
               <h3 class="text-xl sm:text-2xl font-bold text-highlighted">
                 {{ provider.systemName }}
               </h3>
