@@ -18,7 +18,7 @@ useHead({
 })
 
 useSeoMeta({
-  titleTemplate: '%s - Christian Lopez Portafolio',
+  titleTemplate: '%s | Christian López',
   twitterCard: 'summary_large_image'
 })
 

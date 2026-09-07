@@ -7,12 +7,17 @@ export default defineNuxtConfig({
     '@nuxt/content',
     '@vueuse/nuxt',
     'nuxt-og-image',
-    'motion-v/nuxt'
+    'motion-v/nuxt',
+    '@nuxtjs/sitemap'
   ],
   devtools: {
     enabled: true
   },
   css: ['~/assets/css/main.css'],
+  site: {
+    url: 'https://clopezpro.com',
+    name: 'Christian López | Desarrollador de Sistemas y Proveedor Autorizado SRI'
+  },
   content: {
     experimental: {
       sqliteConnector: 'native'
@@ -40,6 +45,9 @@ export default defineNuxtConfig({
     }
   },
   ogImage: {
+    zeroRuntime: true
+  },
+  sitemap: {
     zeroRuntime: true
   }
 })

@@ -13,16 +13,17 @@ if (!page.value) {
 useSeoMeta({
   title: page.value?.seo.title || page.value?.title,
   ogTitle: page.value?.seo.title || page.value?.title,
+  titleTemplate: '%s',
   description: page.value?.seo.description || page.value?.description,
   ogDescription: page.value?.seo.description || page.value?.description,
   ogImage: 'og_cl.png'
 })
 
 useHead({
-  meta: [
+  link: [
     {
-      name: 'keywords',
-      content: '0931048003, 0931048003001, Christian Lopez, Facturador, Facturación Electrónica Ecuador, Proveedor SRI, NAC-DGERCGC26-00000027, software contable Ecuador, licencias Facturador'
+      rel: 'canonical',
+      href: 'https://clopezpro.com'
     }
   ],
   script: [
@@ -38,13 +39,16 @@ useHead({
             'taxID': '0931048003001',
             'identifier': '0931048003001',
             'url': 'https://clopezpro.com',
-            'jobTitle': 'Desarrollador de Software y Proveedor Autorizado de Facturación Electrónica SRI',
-            'description': 'Proveedor autorizado de software de facturación electrónica en Ecuador bajo el RUC 0931048003001 según resolución No. NAC-DGERCGC26-00000027. Desarrollador y titular del sistema Facturador.',
+            'jobTitle': 'Desarrollador de Sistemas y Proveedor Autorizado SRI',
+            'description': 'Desarrollador de sistemas empresariales, software contable y facturación electrónica en Ecuador bajo el RUC 0931048003001 según resolución No. NAC-DGERCGC26-00000027. Desarrollador y titular del sistema Facturador.',
             'knowsAbout': [
-              'Facturación Electrónica Ecuador',
+              'Desarrollo de Sistemas Empresariales',
+              'Sistemas ERP y Software Contable',
+              'Facturación Electrónica SRI Ecuador',
               'Servicios Web SRI',
               'Resolución No. NAC-DGERCGC26-00000027',
-              'Software Contable',
+              'RUC 0931048003001',
+              'Arquitectura de Software Nuxt y TypeScript',
               'Firma Electrónica XAdES-BES'
             ]
           },

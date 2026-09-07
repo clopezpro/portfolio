@@ -1,8 +1,8 @@
 seo:
-  title: "Christian López | Proveedor Autorizado SRI (RUC 0931048003001) - Facturación Electrónica Ecuador"
-  description: "Portafolio y servicios de Christian López, desarrollador Fullstack y proveedor autorizado por el SRI (RUC 0931048003001) según resolución NAC-DGERCGC26-00000027. Sistema Facturador y software contable."
-title: "Hola, soy Christian López, desarrollador web Fullstack y proveedor de facturación electrónica en Ecuador"
-description: "Tengo más de 9 años de experiencia en el desarrollo de software contable, facturación electrónica y ERP. Me he especializado en ambiente web, específicamente con Nuxt, TypeScript y PHP. (Apasionado de Vue, Linux y su ecosistema)."
+  title: "Christian López | Desarrollador de Sistemas y Proveedor Autorizado SRI (RUC 0931048003001) - Ecuador"
+  description: "Desarrollador de sistemas empresariales, software contable y facturación electrónica en Ecuador. Proveedor autorizado SRI (RUC 0931048003001, Res. No. NAC-DGERCGC26-00000027). Creador y titular del sistema Facturador."
+title: "Hola, soy Christian López, desarrollador de sistemas y proveedor autorizado de facturación electrónica SRI en Ecuador"
+description: "Más de 9 años de experiencia diseñando y construyendo sistemas de gestión empresarial, software contable y plataformas ERP. Especialista en arquitecturas modernas con Nuxt, TypeScript, PHP y entornos Linux de alta disponibilidad."
 hero:
   links:
     - label: "Perfil Desarrollador GitHub"
@@ -19,12 +19,12 @@ hero:
       alt: Osara
    
 about:
-  title: "Acerca de mí"
+  title: "Desarrollo de Sistemas y Soluciones Empresariales"
   description: |
-    Soy un desarrollador Fullstack con más de 9 años de experiencia en la creación de aplicaciones web en Ecuador. 
-    Estoy enfocado en sistemas contables y de gestión empresarial para pequeñas y medianas empresas.
-    Trabajo de la mano con contadores, gerentes y dueños de negocios para entender sus necesidades y crear soluciones eficientes.
-    Soy el desarrollador y responsable del sistema contable Facturador.
+    Soy un desarrollador de sistemas con más de 9 años de trayectoria creando software en Ecuador. 
+    Mi enfoque principal es la arquitectura, desarrollo e implementación de sistemas contables, ERP y plataformas de facturación electrónica para empresas.
+    Trabajo de forma directa con contadores, directores financieros y dueños de negocio para automatizar procesos críticos con software rápido, seguro y sin intermediarios.
+    Creador y responsable titular del sistema contable Facturador.
     
 provider:
   badge: "Acreditación Oficial SRI"
